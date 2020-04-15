@@ -1,0 +1,8 @@
+Git- It is a version control system.
+version control - software that helps us to track changes to a file over a period of time.
+
+Git Project
+1 move to the folder
+2 git init - git repository initialize/start
+3 to start saving  changes - git add filename -> git add .
+4 git commit -m "Header added"
