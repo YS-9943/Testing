@@ -12,6 +12,3 @@ Git Project
 
 7 to visit any particular commit-  git checkout id
 8 to visit back at current position - git checkout master
-
-9 to connect local file to remote file -  git remote add origin link
-10 to push code to remote file- git push origin master
